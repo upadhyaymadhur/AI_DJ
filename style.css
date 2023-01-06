@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.dspeed{
+    float: left;
+}
+.speedimg{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed,#v{
+    font-size: 23px;
+    margin: 15px;
+}
+.dv{
+    float: right;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
